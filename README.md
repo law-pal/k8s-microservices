@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/law-pal/k8s-microservices.svg?branch=main)](https://travis-ci.com/law-pal/k8s-microservices)
+
 # Udagram Image Filtering Application
 
 Udagram is a simple cloud application that allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
